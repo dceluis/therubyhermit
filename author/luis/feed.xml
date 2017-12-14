@@ -13,7 +13,7 @@
             
                
                
-                  <managingEditor>Ghost</managingEditor>
+                  <managingEditor>Luis Felipe Sánchez</managingEditor>
             
       
             
@@ -30,7 +30,7 @@
       
    
    <title>
-   <![CDATA[ Ghost - The Ruby Hermit ]]>
+   <![CDATA[ Luis Felipe Sánchez - The Ruby Hermit ]]>
    </title>
    <description>
    <![CDATA[ A realistic guide to solo Ruby WebDev ]]>
@@ -38,12 +38,12 @@
    <link>/therubyhermit/</link>
    <image>
    <url>/therubyhermit/assets/images/favicon.png</url>
-   <title>Ghost - The Ruby Hermit</title>
+   <title>Luis Felipe Sánchez - The Ruby Hermit</title>
    <link>/therubyhermit/</link>
    </image>
    <generator>Jekyll 3.6.2</generator>
    <lastBuildDate></lastBuildDate>
-   <atom:link href="/therubyhermit/author/ghost/rss.xml" rel="self" type="application/rss+xml"/>
+   <atom:link href="/therubyhermit/author/luis/rss.xml" rel="self" type="application/rss+xml"/>
    <ttl>60</ttl>
    <atom:link href="rss" rel="self" type="application/rss+xml" />
    
@@ -52,7 +52,7 @@
 	  <link>/therubyhermit/welcome</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -95,7 +95,7 @@
 	  <link>/therubyhermit/the-editor</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -164,7 +164,7 @@
 	  <link>/therubyhermit/using-tags</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -218,7 +218,7 @@
 	  <link>/therubyhermit/managing-users</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -256,7 +256,7 @@
 	  <link>/therubyhermit/private-sites</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -289,7 +289,7 @@
 	  <link>/therubyhermit/advanced-markdown</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
@@ -359,7 +359,7 @@
 	  <link>/therubyhermit/themes</link>
 		
 				
-						<author>Ghost</author>
+						<author>Luis Felipe Sánchez</author>
 				
 		
 				
